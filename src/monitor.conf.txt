@@ -1,0 +1,5 @@
+ip_IMC=192.168.56.101
+host_ip = 127.0.0.1
+port_webServer= 8082
+port_IMC = 9000
+hostName=monitor
